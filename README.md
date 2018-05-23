@@ -6,12 +6,12 @@ This is a selection of **haskell** problems hosted on the learning platform **[e
 
 ### **TOC**
 
-| n | Subject     | Status                  |
-|---|-------------|-------------------------|
-| 1 | hello-world | :ballot_box_with_check: |
-| 2 | leap        | :ballot_box_with_check: |
-| 3 | space-age   | :ballot_box_with_check: |
-| 4 | bob         | :ballot_box_with_check: |
+| n | Subject     | Status             |
+|---|-------------|--------------------|
+| 1 | hello-world | :white_check_mark: |
+| 2 | leap        | :white_check_mark: |
+| 3 | space-age   | :white_check_mark: |
+| 4 | bob         | :white_check_mark: |
 
 ### **Requirements**
 
