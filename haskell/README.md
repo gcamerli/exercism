@@ -30,7 +30,3 @@ $ stack test
 ```
 
 in the corresponding directory. Happy hacking!
-
-### **License**
-
-This work is unlicensed under the terms of **[Unlicense](http://unlicense.org)**.
