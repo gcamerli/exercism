@@ -2,7 +2,7 @@
 
 ### **Description**
 
-This is a selection of **C** problems hosted on the learning platform **[exercism](http://exercism.io)**.
+This is a selection of **C** problems hosted on the learning platform **[exercism](http://exercism.io/languages/c)**.
 
 ### **TOC**
 
