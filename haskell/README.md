@@ -1,4 +1,4 @@
-# **Haskell Exercism**
+# **Haskell**
 
 ### **Description**
 
