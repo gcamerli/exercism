@@ -8,6 +8,7 @@ This is a selection of problems hosted on the learning platform **[exercism](htt
 
 + [C](http://exercism.io/languages/c)
 + [Haskell](http://exercism.io/languages/haskell)
++ [Go](http://exercism.io/languages/go)
 + [Python](http://exercism.io/languages/python)
 + [Scala](http://exercism.io/languages/scala)
 
