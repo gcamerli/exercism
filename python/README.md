@@ -28,6 +28,4 @@ To test each subject you just need to execute:
 $ pytest file_test.py
 ```
 
-in the corresponding directory. Check the official [doc](http://exercism.io/languages/python/tests).
-
-Happy hacking!
+in the corresponding directory. Check the official [doc](http://exercism.io/languages/python/tests). Happy hacking!
