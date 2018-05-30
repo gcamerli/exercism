@@ -10,6 +10,7 @@ This is a selection of **C** problems hosted on the learning platform **[exercis
 |---|-------------|--------------------|
 | 1 | hello-world | :white_check_mark: |
 | 2 | isogram     | :white_check_mark: |
+| 3 | aronym      | :white_check_mark: |
 
 ### **Requirements**
 
