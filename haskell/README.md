@@ -12,6 +12,7 @@ This is a selection of **haskell** problems hosted on the learning platform **[e
 | 2 | leap        | :white_check_mark: |
 | 3 | space-age   | :white_check_mark: |
 | 4 | bob         | :white_check_mark: |
+| 5 | pangram     | :white_check_mark: |
 
 ### **Requirements**
 
