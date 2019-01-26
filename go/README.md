@@ -8,6 +8,7 @@ This is a selection of **go** problems hosted on the learning platform **[exerci
 
 | n | Subject     | Status             |
 |---|-------------|--------------------|
+| 1 | hello-world | :white_check_mark: |
 | 1 | gigasecond  | :white_check_mark: |
 
 ### **Requirements**
